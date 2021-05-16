@@ -1,0 +1,2 @@
+# user direnv to automatically set env variables for this project
+export MPLCONFIGDIR=set_project_dir/styles
